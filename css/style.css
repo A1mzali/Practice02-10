@@ -1,0 +1,32 @@
+body{
+  background: #f1f1f1;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  word-spacing: 6px;
+  width: 500px;
+  align-items: flex-start;
+  text-align: center;
+  margin: auto;
+}
+
+h4 {
+    color: blue;
+}
+
+.header b {
+ color: red;
+}
+
+.header em {
+    color: blue;
+}
+.header strong {
+    
+    color: blue;
+}
+
+
